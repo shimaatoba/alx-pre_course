@@ -1,8 +1,6 @@
 #!/bin/bash
-echo "ALX"
-sh: 1: :wq: not found
 
-sh: 1: 1: not found
+o "ALX School"
 
 
 
